@@ -1,2 +1,3 @@
 # hello-world
-following the guide
+following the guide.
+This is a test.
